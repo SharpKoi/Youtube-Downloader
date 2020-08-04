@@ -1,1 +1,2 @@
-/statics/**
+/__pycache__
+/.idea
